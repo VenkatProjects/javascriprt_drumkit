@@ -5,5 +5,6 @@ A Simple Javascript Project
 ![Demo](https://media.giphy.com/media/JpS0VDAEMCwwMUltXP/giphy.gif)
 
 ## Technologies
-- 100% Javascript
+- HTML
+- Javascript
 - Data-Keys are used to set audio
