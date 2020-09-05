@@ -2,7 +2,7 @@
 
 A Simple Javascript Project 
 
-![Demo](https://media.giphy.com/media/JpS0VDAEMCwwMUltXP/giphy.gif)
+![Demo](https://media.giphy.com/media/XFpnQo6soBOta3UGaV/giphy.gif)
 
 ## Technologies
 - HTML
