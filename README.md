@@ -6,4 +6,4 @@ A Simple Javascript Project
 
 ## Technologies
 - 100% Javascript
-- Data-Keys to set audio
+- Data-Keys are used to set audio
